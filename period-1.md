@@ -23,7 +23,7 @@ We will focus on the newest versions of JavaScript and what it takes to use it, 
 
 **Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:** [About the Course](http://js-plaul.rhcloud.com/fsj/fsj.html#1), [Node-introduction](http://js-plaul.rhcloud.com/node1/NodeIntro.html), [JavaScript-intro](http://js-plaul.rhcloud.com/javascript1/js.html#1)  
 
-# **7-02-Wednesday**
+# **7-2-Wednesday**
 * Vanilla JavaScript Continued
 * NodeJs 
 * Modules and npm
@@ -41,32 +41,34 @@ Hints: You should really try hard before this, but all solutions can be found he
 **Slides** [npm, node and events (tbd)]()
 
 # **8-2-Thuersday**
-* es2015, es2017 ... 
-* Babel & Webpack
+* es2015, es2016 ... 
+* Webpack
+* Bab
 * TypeScript
 
 ### Before this lesson you should:
 Read:
-[Understanding ES5, ES2015 and TypeScript:](https://johnpapa.net/es5-es2015-typescript/)
-
-Setup: [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
+[TypeScript or Babel?](https://www.stackchief.com/blog/TypeScript%20or%20Babel%3F)
+Skim these three links:
+[Babel.io](https://babeljs.io/)
+[Webpack](https://webpack.js.org/concepts/)
+[Understanding ES5, ES2015 and TypeScript (focus on the TypeScript part)](https://johnpapa.net/es5-es2015-typescript/)
 
 Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
 * [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 
-**Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit) , 
-[Webpack exercises](https://docs.google.com/document/d/1PIMMeYPqN8Qzo4qsgjjuNAC0_15RIEVjD0DbBhcaP-0/edit?usp=sharing)
+**Exercises** 
+* [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit) , 
+* [Webpack exercises](https://docs.google.com/document/d/1PIMMeYPqN8Qzo4qsgjjuNAC0_15RIEVjD0DbBhcaP-0/edit?usp=sharing)
 
-**Slides** [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) , [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
+**Slides** 
+* [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) 
+* [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
 
-# 6/9-Wedensday
+# 14/2-Wedensday
 
-```diff
-- Bemærk: Jeg er i Polen til React Native Konference, så denne dag er uden underviser
-```
-
-TypeScript
+* TypeScript
 
 #### Before this lesson you should:
 Setup: (if not already done) [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
@@ -82,12 +84,11 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
 
 
-# **8-9-Friday**
+# **21/2-Wednesday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
-* Period Hand-in: September 9th. 16.00
-* Reviews must be completed: Septemper 12th. 22.00.
-* Hand-in Document [Add your git-links here (closed)](#):  
-* [How to hand in](https://docs.google.com/document/d/1mfESEmM5oQfQgpSwi-pc-3Z7baiQaRDsTkLnlwLDBAM/edit?usp=sharing)
+* Period Hand-in: September TBD
+* Hand-in Document [tbd](#)
+
 
