@@ -6,7 +6,7 @@ This is the language we are going to "have a lot of fun with" in the coming mont
 ## How I have designed the course.
 The course is divided up into 5 periods, each with a specific topic and a lot of exercises which will form the basis for the examination.
 From period 2, as a supplement to the exercises, there will be an ongoing semester project which hopefully should tie most of the technologies together, and also ensure that “things” learned in one period can be used in the next.
-Make sure to read the description of the semester project before day 1, since it will give you a clear idea about, what it is you are supposed to learn this semester.
+Make sure to read the description of the semester project before day 1, since it will give you a clear idea about, what you are supposed to learn this semester.
 
 One period will be marked as non-compulsory, which mean you can replace it with a topic decided by yourself (must be approved by me).
 
