@@ -32,6 +32,7 @@ We will focus on the newest versions of JavaScript and what it takes to use it, 
 
 ### Before this lesson you should:
 * Read: [Art of node](https://github.com/maxogden/art-of-node) (read the whole “book”, it’s short and clear)
+
 Or Watch:
 * [Introduction to Node.js](https://www.youtube.com/watch?v=GJmFG4ffJZU)  (be sure to have your editor open, and code along)
 * No matter what, you MUST watch this this fantastic video: [The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -49,10 +50,11 @@ Hints: You should really try hard before this, but all solutions can be found he
 ### Before this lesson you should:
 Read:
 [TypeScript or Babel?](https://www.stackchief.com/blog/TypeScript%20or%20Babel%3F)
-Skim these three links:
-[Babel.io](https://babeljs.io/)
-[Webpack](https://webpack.js.org/concepts/)
-[Understanding ES5, ES2015 and TypeScript (focus on the TypeScript part)](https://johnpapa.net/es5-es2015-typescript/)
+
+Skim these links:
+* [Babel.io](https://babeljs.io/)
+* [Webpack](https://webpack.js.org/concepts/)
+* [Understanding ES5, ES2015 and TypeScript (focus on the TypeScript part)](https://johnpapa.net/es5-es2015-typescript/)
 
 Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
