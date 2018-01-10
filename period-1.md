@@ -54,7 +54,7 @@ Read:
 Skim these links:
 * [Babel.io](https://babeljs.io/)
 * [Webpack](https://webpack.js.org/concepts/)
-* [Understanding ES5, ES2015 and TypeScript (focus on the TypeScript part)](https://johnpapa.net/es5-es2015-typescript/)
+* [TypeScript (watch the first 15. minuttes)](https://www.youtube.com/watch?v=0ChtcZmb3dI)
 
 Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
