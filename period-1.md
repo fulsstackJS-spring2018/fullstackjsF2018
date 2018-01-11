@@ -105,7 +105,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
-* Period Hand-in: September TBD
+* Period Hand-in: TBD
 * Hand-in Document [tbd](#)
 
 
