@@ -53,8 +53,8 @@ We will follow up on this topic by the end of the semester
 - Read this article  [6 Reasons Why JavaScript’s Async/Await Blows Promises Away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 **Exercises:**
-- [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing)
-- [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing) 1, 2 and 3
+- [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing) 1+2
+- [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing) 1, 2, 3
 
 # **14-2-Thuersday**
 * es2015, es2016 ... 
