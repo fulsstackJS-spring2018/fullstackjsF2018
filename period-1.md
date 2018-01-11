@@ -42,6 +42,21 @@ Hints: You should really try hard before this, but all solutions can be found he
 **Slides** [npm, node and events (tbd)]()
 
 # **8-2-Thuersday**
+* es2015 Promises, part-1
+* es2016 Async/await, part-1
+We will follow up on this topic by the end of the semester
+
+### Before this lesson you should:
+- Watch this [video](https://www.youtube.com/watch?v=s6SH72uAn3Q) (simple, but introduces most concepts) 1+2
+- Read this article [JavaScript Promises](https://bitsofco.de/javascript-promises-101/). This is what I have used for todays presentation
+- Read this article  [6 Reasons Why JavaScript’s Async/Await Blows Promises Away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- ~~Read~~/skim this article [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+
+**Exercises:**
+- [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing)
+- [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing) 1, 2 and 3
+
+# **14-2-Thuersday**
 * es2015, es2016 ... 
 * Webpack
 * Bab
@@ -68,7 +83,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) 
 * [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
 
-# 14/2-Wedensday
+# 21/2-Wedensday
 
 * TypeScript
 
@@ -86,7 +101,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
 
 
-# **21/2-Wednesday**
+# **22/2-Wednesday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
