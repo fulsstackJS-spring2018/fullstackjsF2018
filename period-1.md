@@ -44,13 +44,13 @@ Hints: You should really try hard before this, but all solutions can be found he
 # **8-2-Thuersday**
 * es2015 Promises, part-1
 * es2016 Async/await, part-1
+
 We will follow up on this topic by the end of the semester
 
 ### Before this lesson you should:
 - Watch this [video](https://www.youtube.com/watch?v=s6SH72uAn3Q) (simple, but introduces most concepts) 1+2
 - Read this article [JavaScript Promises](https://bitsofco.de/javascript-promises-101/). This is what I have used for todays presentation
 - Read this article  [6 Reasons Why JavaScript’s Async/Await Blows Promises Away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-- ~~Read~~/skim this article [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 
 **Exercises:**
 - [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing)
