@@ -21,7 +21,7 @@ We will focus on the newest versions of JavaScript and what it takes to use it, 
 
 **Please note: Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
 
-**Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:** [About the Course](http://js-plaul.rhcloud.com/fsj/fsj.html#1), [Node-introduction](http://js-plaul.rhcloud.com/node1/NodeIntro.html), [JavaScript-intro](http://js-plaul.rhcloud.com/javascript1/js.html#1)  
+**Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:** [Node-introduction](http://slides.mydemos.dk/node1/NodeIntro.html#1)  
 
 # **7-2-Wednesday**
 * Vanilla JavaScript Continued
