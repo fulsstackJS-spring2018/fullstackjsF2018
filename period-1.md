@@ -17,6 +17,7 @@ We will focus on the newest versions of JavaScript and what it takes to use it, 
 ### Before this lesson you should:
 * <a href="https://nodejs.org/en/download/current/" target="_blank" >Install/update node</a> (I suggest the LTS version)
 * [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code). You can use whatever IDE you like, but this is the one I will be using
+* Read this [article](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) about Node.js and vscode 
 * If you like videos, watch a few of [these](https://code.visualstudio.com/docs/introvideos/overview) (you might wanna come back later):
 
 **Please note: Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
