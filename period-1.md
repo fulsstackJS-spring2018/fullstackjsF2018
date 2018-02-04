@@ -40,6 +40,7 @@ Or Watch:
 
 **Exercises:** Complete (as much as you have time for) the exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
+
 **Slides** [npm, node and events (tbd)]()
 
 # **8-2-Thuersday**
