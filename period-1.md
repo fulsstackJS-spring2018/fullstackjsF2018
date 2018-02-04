@@ -4,7 +4,7 @@
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. 
 We will focus on the newest versions of JavaScript and what it takes to use it, both on the server and on clients (Babel & WebPack).*
 
-[Learning Goals Period1 (https://docs.google.com/document/d/1wVgKnShkqIf-BilnXqwMub4jHS_RqLkoUcWajtItrq0/edit?usp=sharing)]()
+[Learning Goals Period1](https://docs.google.com/document/d/1wVgKnShkqIf-BilnXqwMub4jHS_RqLkoUcWajtItrq0/edit?usp=sharing)
 
 # **31-01-Wednesday** 
 * A quick intro to the semester
