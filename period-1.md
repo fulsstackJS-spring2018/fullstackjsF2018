@@ -41,7 +41,7 @@ Or Watch:
 **Exercises:** Complete (as much as you have time for) the exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
 
-**Slides** [npm, node and events (tbd)]()
+**Slides** [npm, node and events](http://slides.mydemos.dk/node2/NodeGettingStarted.html#1)
 
 # **8-2-Thuersday**
 * es2015 Promises, part-1
