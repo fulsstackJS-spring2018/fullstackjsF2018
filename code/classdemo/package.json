@@ -1,0 +1,15 @@
+{
+  "name": "classdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo1" : "node build/tsDemo1.js",
+    "typeDemo" : "node build/typeDemo.js",
+    "interfaceDemo" : "node build/interfaceDemo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
