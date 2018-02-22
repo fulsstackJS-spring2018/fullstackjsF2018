@@ -109,5 +109,12 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 **Period Milestones:**
 * Period Hand-in: Sunday (25/2) 16.00
 * [Hand-in Document](https://docs.google.com/spreadsheets/d/1BtxxLe2bFTc96rEaxE-D-UGFQC4Ir78xDF1JBINIUPc/edit?usp=sharing#)
+##### What is it I have to hand-in?
+Take (one more time) a look at the learning goals for this period (see link at the top).
+
+What you must hand-in is code examples you can use for those questions that requires example code.
+
+How much do I have to hand-in - depends on your ambitions (2..12)
+
 
 
