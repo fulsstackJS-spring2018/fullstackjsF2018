@@ -107,7 +107,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
-* Period Hand-in: saturday (24/2) 16.00
+* Period Hand-in: Sunday (25/2) 16.00
 * [Hand-in Document](https://docs.google.com/spreadsheets/d/1BtxxLe2bFTc96rEaxE-D-UGFQC4Ir78xDF1JBINIUPc/edit?usp=sharing#)
 
 
