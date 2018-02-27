@@ -21,7 +21,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 **Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)   
 
-**Slides:** [Express intro (TBD)]()
+**Slides:** [Express intro (TBD)](http://slides.mydemos.dk/express1/express1.html#1)
 
 ## 7-03- Wednesday
 * Express Continued
