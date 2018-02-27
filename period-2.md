@@ -13,8 +13,11 @@
 
 #### Before this lesson you should:
 
-Before this lesson you should:
-* TBD
+Before this lesson you should read these two articles:
+[Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+Skim the [Express Website](https://expressjs.com/en/starter/installing.html), especially the getting started pages
+
+
 
 **Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)   
 
