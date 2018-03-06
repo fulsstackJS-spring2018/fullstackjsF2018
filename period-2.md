@@ -3,7 +3,7 @@
 
 *In this period you will be introduced to Express, a minimal and flexible node.js package, that provides a robust set of features for web and mobile applications. We will also introduce the Mocha test framework together with a number of supplementing packages for assertions, mocking etc. Finally you will be introduced to a new kind of databases - NoSQL Databases, with mongoDB as the document database we are going to use  *
 
-[Learning Goals Period 2](https://docs.google.com/document/d/19_PQi8gEQeoRmTqndb6jd87iSihU8HRW0koIH8nEES8/edit)
+[Learning Goals Period 2](https://docs.google.com/document/d/1k6vlt9gwil8SH291JutVdgdxUK08cqwXTt0Nhn7xAyk/edit?usp=sharing)
 
 ## 28-02-Wednesday
 * a quick introduction to Express, MongoDB and Mongoose
