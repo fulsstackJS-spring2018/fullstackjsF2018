@@ -30,6 +30,8 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 #### Before this lesson you should:
 [Watch this key-note speech](http://expressjs.com/)
+[Read about Express middleware](https://expressjs.com/en/guide/using-middleware.html) and/or [watch](https://www.youtube.com/watch?v=9HOem0amlyg)
+
 
 **Exercises:**
 * [middleware,server side rendering,sessions and REST](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
