@@ -58,7 +58,7 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 * [Chai](http://chaijs.com/api/bdd/#method_throw)
 
 
-**Exercises:** [JavaScript Backend Testing](https://docs.google.com/document/d/1JyQ4Qgdori9QYZ8Pfjp5x7P5vIGImx0Byc4pNrG9DXA/edit?usp=sharing)
+**Exercises:** [JavaScript Backend Testing](https://docs.google.com/document/d/1-QQ9lszUVLpRF8thEkNYJeXdBOpQpWGdKJ7PwgHom6A/edit?usp=sharing)
 
 [Cool Mocha Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
