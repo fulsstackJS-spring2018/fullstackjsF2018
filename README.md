@@ -1,3 +1,5 @@
+[Snippets](https://docs.google.com/document/d/1hc9D89QZl9KGV1bnrx1fwQaaoFYYCf5znCeb-2QSRBA/edit?usp=sharing)
+
 # Full Stack JavaScript - Spring 2018
 *JavaScript is everywhere. Once a simple misunderstood language, used only for simple browser manipulations, it has now evolved along with the Web and finds itself entrenched in all modern browsers, complex Web applications, mobile apps, server-side applications, desktop applications and in emerging platforms like the Internet of Things*
 
