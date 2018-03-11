@@ -90,7 +90,7 @@ Usually I always recommend a local database for development. Since we only have 
 ### Exercises
  [What is Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
  
- *This is part of a larger tutorial, related to Express. Complete this tutorial (you also have a great deal of next week) to get a complete Express example including a database*
+ *The following is part of a larger tutorial, related to Express. Complete part 3 of this tutorial only (feel free to complete all of it, that will provide you with a great example for the exam)*
  
  [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer)
 
