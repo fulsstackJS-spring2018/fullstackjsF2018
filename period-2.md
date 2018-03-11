@@ -77,6 +77,7 @@ Usually I will always recommend a local database for development. Since however,
 ### Read/Watch
 - [Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [What is Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications) (one of the exercises for today)
+- [MDN - mongoose tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose) (one of the exercises for today)
 
 ### Exercises
  [What is Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
