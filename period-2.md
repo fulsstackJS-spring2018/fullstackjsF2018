@@ -94,6 +94,8 @@ Usually I will always recommend a local database for development. Since however,
 #### Before this lesson you should Read/Watch:
 Skim part1-2 and read part-3 in [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
+We will implement the mongoose models for the [mini project](https://docs.google.com/document/d/1w0NMC89QG3oRJBLbqG-01jZsRO8IKNxEXOa3Jinwb00/edit?usp=sharing) as a shared class exercise today:
+
 # 22-3-Thuersday
 ### Mini Project - part1
 
