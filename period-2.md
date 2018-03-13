@@ -91,10 +91,11 @@ Usually I will always recommend a local database for development. Since however,
 [Mongo/Mongoose Slides (TBD)]()
 
 # 21-03-Wednesday
-Mongo, Mongoose continued
+#### Before this lesson you should Read/Watch:
+Skim part1-2 and read part-3 in [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
 # 22-3-Thuersday
-###Complete Hand-in for Period-2
+### Mini Project - part1
 
 **Period Milestones:**
 * Period Hand-in: TBD
