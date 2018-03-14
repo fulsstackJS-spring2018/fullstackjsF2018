@@ -88,7 +88,7 @@ Usually I will always recommend a local database for development. Since however,
  [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer)
 
 #### Slides
-[Mongo/Mongoose Slides (TBD)]()
+[Mongo/Mongoose Slides](http://slides.mydemos.dk/noSQL/mongo_mongoose.html#1)
 
 # 21-03-Wednesday
 #### Before this lesson you should Read/Watch:
