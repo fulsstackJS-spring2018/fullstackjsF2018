@@ -96,8 +96,13 @@ Skim part1-2 and read part-3 in [6 Rules of Thumb for MongoDB Schema Design](htt
 
 We will implement the mongoose models for the [mini project](https://docs.google.com/document/d/1w0NMC89QG3oRJBLbqG-01jZsRO8IKNxEXOa3Jinwb00/edit?usp=sharing) as a shared class exercise today:
 
+### Exercises
+[Mini Project, part1](https://docs.google.com/document/d/1IkNwMmGrvUz8y6J8gw3ekZ-PZBXKaPt566W4gTote4w/edit?usp=sharing)
+
 # 22-3-Thuersday
 ### Mini Project - part1
+
+[Mini Project, part1](https://docs.google.com/document/d/1IkNwMmGrvUz8y6J8gw3ekZ-PZBXKaPt566W4gTote4w/edit?usp=sharing)
 
 **Period Milestones:**
 * Period Hand-in: TBD
