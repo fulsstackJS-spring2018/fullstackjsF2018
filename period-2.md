@@ -105,7 +105,7 @@ We will implement the mongoose models for the [mini project](https://docs.google
 [Mini Project, part1](https://docs.google.com/document/d/1IkNwMmGrvUz8y6J8gw3ekZ-PZBXKaPt566W4gTote4w/edit?usp=sharing)
 
 **Period Milestones:**
-* Period Hand-in: TBD
-* Hand-in Document [Add your git-links here (TBD)](#):  
+* Period Hand-in: April 1 18.00
+* Hand-in Document [Add your git-links here](https://docs.google.com/spreadsheets/d/1YQq59Te5jEkl_oJnSF-37sZV1_dFd-iyD_iVrZb9Ev4/edit?usp=sharing):  
 
 
