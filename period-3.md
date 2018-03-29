@@ -1,7 +1,7 @@
 # Period-3 
 ### Using Geo-information on clients and servers
 
-*In this period we will refresh our knowledge related to React Native, Introduce GeoJSON, and how to use it with MongoDB, and continue with the mini project
+*In this period we will refresh our knowledge related to React Native, Introduce GeoJSON, and how to use it with MongoDB, and continue with the mini project*
 
 [Learning Goals Period 3 (TBD)]()
 
@@ -12,6 +12,7 @@
 #### Before this lesson you should:
 
 Before this lesson you should read these two articles:
+
 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite)
 Skim the [Geospatial Queries](https://docs.mongodb.com/manual/geospatial-queries/)
 
