@@ -12,9 +12,8 @@
 #### Before this lesson you should:
 
 Before this lesson you should read these two articles:
-
-[More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite)
-Skim the [Geospatial Queries](https://docs.mongodb.com/manual/geospatial-queries/)
+- [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite)
+- Skim the [Geospatial Queries](https://docs.mongodb.com/manual/geospatial-queries/)
 
 
 **Exercises:** 
