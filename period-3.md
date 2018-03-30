@@ -17,7 +17,7 @@ Before this lesson you should read these two articles:
 
 
 **Exercises:** 
-[TBD]()
+[Getting Started with GeoJSON](https://docs.google.com/document/d/1AmOU_c_ELEyn522X1j8rFnfUAt7u8fMpvH7t-KshS1s/edit?usp=sharing)
 
 ## 05-04- Thuersday
 
