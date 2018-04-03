@@ -24,8 +24,7 @@ Before this lesson you should read these two articles:
 GeoJson and Geospatial Queries Continued
 
 **Exercises:**
-* Complete exercises from Wednesday
-* Complete the (location related) Rest-API for the mini-project
+* [Implement the (location related) Rest-API for the mini-project](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing)
 
 
 ## 11-04 -Wednesday
