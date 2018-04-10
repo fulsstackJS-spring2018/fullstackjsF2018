@@ -28,11 +28,20 @@ GeoJson and Geospatial Queries Continued
 
 
 ## 11-04 -Wednesday
-* React Native Recap, speciallly focused on "Geo-handling"
+
+React Native Recap, speciallly focused on "Geo-handling"
 
 ### Before this lesson you should:
+Make sure, before this lesson, to refresh your knowledge related to React Native.
 
-### Read/Watch
+Check that you have installed the required [tools](https://docs.expo.io/versions/latest/) and make sure to bring an up-to-date phone for the lesson. 
+
+Try, before tomorrow, to create a simple app, and execute it on your phone.
+Skim the documentation for these two Expo-APIs which are both necessary for the mini project.
+
+- [Location](https://docs.expo.io/versions/v26.0.0/sdk/location)
+- [Map-View](https://docs.expo.io/versions/v26.0.0/sdk/map-view)
+
 
 **Exercises:** 
 [TBD]()
