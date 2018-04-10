@@ -44,7 +44,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 
 
 **Exercises:** 
-[TBD]()
+[React Native Recap](https://docs.google.com/document/d/1KRwv93xe0AXYVQVr-qEm9xuJmmc2vmG-iAe3iuWplP0/edit?usp=sharing)
 
 ## 18-04 -Wednesday
 * React Native Recap continued
