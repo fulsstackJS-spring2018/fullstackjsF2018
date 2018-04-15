@@ -54,7 +54,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 
 
 
-# 18-4-Thuersday
+## 19-4-Thuersday
 ### Mini Project - part2
 
 **Exercises:** 
