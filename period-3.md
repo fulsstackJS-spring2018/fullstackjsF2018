@@ -50,7 +50,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 * React Native Recap continued
 
 **Exercises:** 
-[Mini Project, part2 (TBD)]()
+[Mini Project, part3)](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
 
 
@@ -58,7 +58,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 ### Mini Project - part2
 
 **Exercises:** 
-[Mini Project, part2 (TBD)]()
+[Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
 **Period Milestones:**
 * Period Hand-in: April 21 18.00
