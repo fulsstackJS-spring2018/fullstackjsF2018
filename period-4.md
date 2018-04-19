@@ -1,17 +1,22 @@
 # Period-4 
 ### GraphQL
 
-*In this period we will introduce GraphQL, server side using Express+MongoDB and Client Side via the React libraty Apollo*
+*In this period we will introduce GraphQL, a new API standard that provides a more efficient, powerful and flexible alternative to REST. It was developed and open-sourced by Facebook and is now maintained by a large community of companies and individuals from all over the world.*
 
 [Learning Goals Period 4 (TBD)]()
 
 ## 25-04-Wednesday
 * An introduction to GraphQL
+* Setting up a simple GraphQL backend with an Express Server and a Mongo Database
 
 #### Before this lesson you should:
 
+- Skim this tutorial [How to GraphQL]( https://www.howtographql.com/)
+- Watch and CODE ALONG this GREAT [tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html)
 
 **Exercises:** 
+If not already done, complete the  [Lynda-tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html).
+If done, start focusing on the miniproject
 
 ## 26-04- Thuersday
 
