@@ -23,8 +23,10 @@ If done, start focusing on the miniproject
 I will be in room 1.03 and provide assistence if you miss required parts from period-3
 
 ## 02-05 - Wednesday
+Cancelled. If you follow the Security Course 26-04 is the replacement day, otherwise just work on the mini-project
 ## 03-05 - Thuersday
-These two lessons are cancelled. See 26-04 and 1-05 for replacement lessons
+Cancelled. If you follow the Security Course May 1th is the replacement day, otherwise just work on the mini-project
+
 
 ## 01-05 - Monday (replacement lesson)
 
