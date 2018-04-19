@@ -12,7 +12,7 @@
 #### Before this lesson you should:
 
 - Skim this tutorial [How to GraphQL]( https://www.howtographql.com/)
-- Watch and CODE ALONG this GREAT [tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html)
+- Watch and CODE ALONG this GREAT [tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html) (this will give you allmost everything you need to design the miniproject GraphQL backend)
 
 **Exercises:** 
 If not already done, complete the  [Lynda-tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html).
