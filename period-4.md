@@ -26,11 +26,26 @@ These two lessons are cancelled. See 26-04 and 1-05 for replacement lessons
 **Exercises:** 
 [Mini Project, part4 (TBD)](#)
 
-## 08-05 - Wednesday
+## 09-05 - Wednesday
 GraphQL with Express, MongoDB cont. 
 
 **Exercises:** 
 [Mini Project, part4 (TBD)](#)
+
+## 16-05 - Wednesday
+GraphQL Client Side with React and Apollo. 
+
+**Exercises:** 
+[Mini Project, part4-client (TBD)](#)
+
+## 17-05 - Wednesday
+GraphQL Client Side with React and Apollo continued 
+
+**Exercises:** 
+[Mini Project, part4-client (TBD)](#)
+
+## 23-05 - Wednesday
+Complete the mini project
 
 **Period Milestones:**
 * Period Hand-in: TBD
