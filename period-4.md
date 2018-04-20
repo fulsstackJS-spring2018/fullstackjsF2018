@@ -27,7 +27,9 @@ return new Promise((resolve, object) => {
 ````
 you can just do this (but the example above, one more time, nicely illustrates how you can convert a callback based design into a promise based):
 
-````javascript return newFriend.save();````
+````javascript 
+return newFriend.save();
+````
 
 
 #### Exercises
