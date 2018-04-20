@@ -61,7 +61,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 
 ### Period Milestones
 #### Period Hand-in: April 22 18.00
-What you have to hand in is:
+What you have to hand in is (remember, you can do this in groups):
  - [The "must do now part" of the mini-project backend](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing) (you will get time for the rest, next week)
  - [Mini Project - React Native Client](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
