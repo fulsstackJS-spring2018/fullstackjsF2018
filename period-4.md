@@ -14,7 +14,7 @@
 - Skim this tutorial [How to GraphQL]( https://www.howtographql.com/)
 - Watch and CODE ALONG this GREAT [tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html) (this will give you allmost everything you need to design the miniproject GraphQL backend)
 ##### Hints for the Lynda-tutorial
-- The tutorial uses two database (to really illustrate the power of GraphQL), but you can skip the one, and only focus on MongoDB
+- The tutorial uses two database (to really illustrate the power of GraphQL), but skip the part related to a relational database, and focus only the parts related to MongoDB
 - The tutorial includes a section related to, how you set up a local instance of MongoDB. I suggest you just stick to your mlab-acount and just create a new database on mlab.
 - It seems like the authour haven't noticed that mongoose now supports promises. So when you get to the "mongoose-part" instead of doing this:
 ````
