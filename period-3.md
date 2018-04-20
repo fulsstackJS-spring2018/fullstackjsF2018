@@ -59,11 +59,11 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 **Exercises:** 
 [Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
-**Period Milestones:**
-* Period Hand-in: April 22 18.00
+### Period Milestones
+#### Period Hand-in: April 22 18.00
 What you have to hand in is:
  - [The location related Rest-API for the mini-project](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing) (you will get time for the rest, next week)
  - [Mini Project - React Native Client](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
-* [Hand-in Document](https://docs.google.com/spreadsheets/d/1kZrm8Dmx90otINNoICzUhCo7I7eSJZq1wrc-ErsPsVU/edit?usp=sharing) 
+[Hand-in Document](https://docs.google.com/spreadsheets/d/1kZrm8Dmx90otINNoICzUhCo7I7eSJZq1wrc-ErsPsVU/edit?usp=sharing) 
 
