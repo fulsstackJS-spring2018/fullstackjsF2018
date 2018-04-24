@@ -16,6 +16,7 @@
 ##### Hints for the Lynda-tutorial
 - The tutorial uses two database (to really illustrate the power of GraphQL), but skip the part related to a relational database, and focus only the parts related to MongoDB
 - The tutorial includes a section related to, how you set up a local instance of MongoDB. I suggest you just stick to your mlab-acount and create a new database up here.
+-- Also skip the part (4.1) that install Robo 3T, since mlab provides you with a fine enough GUI
 - It seems like the authour haven't noticed that mongoose now supports promises. So when you get to the "mongoose-part" instead of doing this:
 ````javascript
 return new Promise((resolve, object) => {
