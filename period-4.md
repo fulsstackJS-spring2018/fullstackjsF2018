@@ -50,19 +50,21 @@ No teacher. If you follow the Security Course May 1th is the replacement day, ot
 ## 01-05 - Monday (replacement lesson)
 
 **Exercises:** 
-[Mini Project, part4 (TBD)](#)
+[Mini Project, part4 (Backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 09-05 - Wednesday
 GraphQL with Express, MongoDB cont. 
 
 **Exercises:** 
-[Mini Project, part4 (TBD)](#)
+[Mini Project, part4 (Complete the backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
+[Apollo/React-exercises (TBD)](#)
 
 ## 16-05 - Wednesday
 GraphQL Client Side with React and Apollo. 
 
 **Exercises:** 
-[Mini Project, part4-client (TBD)](#)
+[Apollo/React-exercises (TBD)](#)
+[Mini Project, part4 (client)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 17-05 - Wednesday
 GraphQL Client Side with React and Apollo continued 
