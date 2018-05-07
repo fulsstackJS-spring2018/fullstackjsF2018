@@ -3,7 +3,7 @@
 
 *In this period we will introduce GraphQL, a new API standard that provides a more efficient, powerful and flexible alternative to REST. It was developed and open-sourced by Facebook and is now maintained by a large community of companies and individuals from all over the world.*
 
-[Learning Goals Period 4 (TBD)]()
+[Learning Goals Period 4](https://docs.google.com/document/d/12XGTMDxsDwwS4Fi1Ojy9bT3BGXJwX9J_qNjq63Sm3hQ/edit?usp=sharing)
 
 ## 25-04-Wednesday
 * An introduction to GraphQL
