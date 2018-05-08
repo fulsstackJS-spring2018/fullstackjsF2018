@@ -53,11 +53,18 @@ No teacher. If you follow the Security Course May 1th is the replacement day, ot
 [Mini Project, part4 (Backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 09-05 - Wednesday
-GraphQL with Express, MongoDB cont. 
+- GraphQL with Express, MongoDB cont. 
+- GraphQL client Side with React and Apollo
+
+#### Before this lesson you should:
+
+- Read/Skim/Code this document [Apollo getting started](https://www.apollographql.com/docs/react/essentials/get-started.html)
+- Read/Skim/Code this document [Queries](https://www.apollographql.com/docs/react/essentials/queries.html)
+Both articles above is refered to in the exercises below
 
 **Exercises:** 
 - [Mini Project, part4 (Complete the backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
-- [Apollo/React-exercises (TBD)](#)
+- [Apollo/React-exercises (TBD)](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
 
 ## 16-05 - Wednesday
 GraphQL Client Side with React and Apollo. 
