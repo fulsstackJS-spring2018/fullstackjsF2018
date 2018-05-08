@@ -63,14 +63,15 @@ GraphQL with Express, MongoDB cont.
 GraphQL Client Side with React and Apollo. 
 
 **Exercises:** 
-- [Apollo/React-exercises (TBD)](#)
+- [Apollo/React-exercises](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
 - [Mini Project, part4 (client)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 17-05 - Wednesday
 GraphQL Client Side with React and Apollo continued 
 
 **Exercises:** 
-[Mini Project, part4-client (TBD)](#)
+- Complete the [Apollo/React-exercises](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
+- [Mini Project, part4-client (TBD)](#)
 
 ## 23-05 - Wednesday
 Complete the mini project
