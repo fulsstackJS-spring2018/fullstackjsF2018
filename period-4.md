@@ -60,6 +60,7 @@ No teacher. If you follow the Security Course May 1th is the replacement day, ot
 
 - Read/Skim/Code this document [Apollo getting started](https://www.apollographql.com/docs/react/essentials/get-started.html)
 - Read/Skim/Code this document [Queries](https://www.apollographql.com/docs/react/essentials/queries.html)
+
 Both articles above is refered to in the exercises below
 
 **Exercises:** 
