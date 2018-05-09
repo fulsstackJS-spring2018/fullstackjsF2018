@@ -16,6 +16,9 @@ type User {
   created : DateTime
   lastUpdated : DateTime
 }
+type Query {
+  getAllUsers : [User]
+}
 `
 const schema = makeExecutableSchema({typeDefs,resolvers});
 module.exports =  {schema};
