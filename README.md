@@ -14,6 +14,12 @@ One period will be marked as non-compulsory, which mean you can replace it with 
 
 You will find the description for the periods on github, but typically not more than 1-2 lessons into the future since the content of this course changes each semester. The documents for each period will also include all literature, exercises, links to slides etc.
 
+## Professional competencies
+JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk](https://www.jobindex.dk/jobsoegning?q=javascript) ).
+
+In this course you will get the necessary background to join modern full-stack teams, using JavaScript and supplementing JS-frameworks/libraries in browsers, mobile  apps, and on the server
+The course also introduces geolocation (on clients and server), NoSQL, and some of the hottest newest technologies like GraphQL in order to introduce students to technologies used by full stack JavaScript projects in the real world, right now.
+
 ## Learning Goals
 Learning goals will be given for each of the periods as *exam-questions*. This should make it very easy to see what the expected outcome is, by the end of the semester.
 Given how fast things evolve in the JavaScript world, the descriptions are not complete yet. The only promise I can give is; that by the end of a period, the goals for that period will be locked, so you can start preparing for the exam.
