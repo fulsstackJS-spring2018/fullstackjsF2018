@@ -21,16 +21,11 @@ In this course you will get the necessary background to join modern full-stack t
 The course also introduces geolocation (on clients and server), NoSQL, and some of the hottest newest technologies like GraphQL in order to introduce students to technologies used by full stack JavaScript projects in the real world, right now.
 
 ## Study Activities, apart from attending lessons
-For most lessons, you will find a section marked "_before this lesson you should_" and a section with _exercises_. As a minimum, you should expect to spend the same amount of time on preparation and exercises, as the hours assigned to lessons.
+For most lessons, you will find a section marked "_before this lesson you should_" with articles to read, and/or videos to watch, and sometimes software you should have installed before the lesson + a _section with exercises_ which forms the background for the four compulsory hand-ins. As a minimum, _you should expect to spend the same amount of time with preparation and exercises_, as the hours assigned to lessons.
 
 ## Learning Goals
 Learning goals will be given for each of the periods as *exam-questions*. This should make it very easy to see what the expected outcome is, by the end of the semester.
 Given how fast things evolve in the JavaScript world, the descriptions are not complete yet. The only promise I can give is; that by the end of a period, the goals for that period will be locked, so you can start preparing for the exam.
-
-
-## What is expected from you in this course?
-You are expected, each week to write a lot of JavaScript code, and also to reflect about pros & cons, when, or when not to use a technology, etc. By the end of a period you must hand in a description covering the "reflection" parts from the syllabus + a Git-hub link with all code required for the period.
-Before each lesson there will be articles to read, and/or videos to watch, and sometimes software you should have installed before the lesson. I don't go through everything in my lessons, and I do assume you are prepared and have at least skimmed the readings and videos before a lesson.
 
 ## Preconditions for this course?
 You are expected to know fundamental JavaScript, as introduced on the previous semester. You are also expected to know, again from third semester, React and React Native. If you don’t feel quite comfortable with all this right now, don’t worry. You will by the end of the semester :-)
