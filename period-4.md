@@ -82,7 +82,9 @@ GraphQL Client Side with React and Apollo continued
 - [Mini Project, part4-client (TBD)](#)
 
 ## 23-05 - Wednesday
-Complete the mini project
+- Complete the mini project
+- Any questions you might have
+- About the exam
 
 **Period Milestones:**
 * Period Hand-in: TBD
