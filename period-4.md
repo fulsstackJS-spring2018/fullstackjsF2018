@@ -87,6 +87,6 @@ GraphQL Client Side with React and Apollo continued
 - About the exam
 
 **Period Milestones:**
-* Period Hand-in: May 28th 20.00
+* Period Hand-in: May 28th. 20.00
 * [Hand-in Document](https://docs.google.com/spreadsheets/d/1a2phrAFxIUobmk0lHdwx0P3G6ErFadjo9JRYQsQ-3WI/edit?usp=sharing)
 
